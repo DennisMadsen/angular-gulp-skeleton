@@ -1,0 +1,12 @@
+{
+    "Header": {
+        "PROJECT_NAME": "Projekt navn",
+        "TOGGLE_NAVIGATION": "Toggle navigation"
+    },
+    "Menu": {
+        "HOME": "Hjem",
+        "ABOUT": "Om",
+        "CONTACT": "Kontakt"
+    },
+    "TITLE": "Hej Verden"
+}

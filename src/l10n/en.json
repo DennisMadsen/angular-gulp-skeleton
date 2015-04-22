@@ -1,0 +1,12 @@
+{
+    "Header": {
+        "PROJECT_NAME": "Project name",
+        "TOGGLE_NAVIGATION": "Toggle navigation"
+    },
+    "Menu": {
+        "HOME": "Home",
+        "ABOUT": "About",
+        "CONTACT": "Contact"
+    },
+    "TITLE": "Hello World"
+}
