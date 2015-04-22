@@ -84,7 +84,7 @@ gulp.task('clean-code', function (callback) {
 gulp.task('vet', ['bower-restore'], function () {
     return gulp
         .src(config.alljs)
-        //.pipe(plugins.jscs())
+        .pipe(plugins.jscs())
         .pipe(plugins.jshint())
         .pipe(plugins.jshint.reporter('jshint-stylish', {
             verbose: true
