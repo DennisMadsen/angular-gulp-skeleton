@@ -1,4 +1,4 @@
-# JavaScript task automatisk using Gulp for AngularJS
+# JavaScript task automation using Gulp for AngularJS
 JavaScript task automatisk using Gulp for AngularJS
 
 Based on John Papa's Pluralsight course.
